@@ -2,9 +2,11 @@
 
 ### Education
 
-2015.09-2019.06 Nanchang University Bachelor degree  Mathmatics
+Bachelor degree: 2015.09-2019.06 Nanchang University Mathmatics
 
-2019.09-2022.06 Chinese Academy of Science, Institute of Information Engineering  Master degree Cyber Security
+Master degree: 2019.09-2022.06 Chinese Academy of Science, Institute of Information Engineering Cyber Security
+
+Doctor degree: 2022.09- now   Tsinghua University & Pengcheng Lab, Information and communication Engineering
 
 You can use the [editor on GitHub](https://github.com/ChrisWenhui/github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
