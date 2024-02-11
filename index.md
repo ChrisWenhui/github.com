@@ -2,42 +2,28 @@
 
 ### Education
 
-Bachelor degree: 2015.09-2019.06 Nanchang University Mathmatics
+Bachelor degree: 2015.09-2019.06 Nanchang University Mathematics
 
 Master degree: 2019.09-2022.06 Chinese Academy of Science, Institute of Information Engineering Cyber Security
 
-Doctor degree: 2022.09- now   Tsinghua University & Pengcheng Lab, Information and communication Engineering
+Doctor degree: 2022.09- now   Tsinghua University & Pengcheng Lab, Information and Communication Engineering
 
 
 
 ### Research interest
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Secure Multi-party Computation
+2. Applied cryptography
+3. Cryptographic protocols
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Papers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChrisWenhui/github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Wenhui Kong, Jianghua Zhong, Dongdai Lin: Observability of Galois nonlinear feedback shift registers. Sci. China Inf. Sci. 65(9): 1-16 (2022)
+2. Wenhui Kong, Jianghua Zhong, Dongdai Lin: Isomorphism and Equivalence of Galois Nonlinear Feedback Shift Registers. Inscrypt 2021: 301-315
+3. Wenhui Kong, Pengfei Wen, Xinran Zheng, Shuo Yang, Ning Hu, Xingjun Wang: An Efficient (t, n) Threshold Authentication Scheme for Vehicular Ad Hoc Networks(WCNC2024)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+kongwh22@mails.tsinghua.edu.cn// kongwh22_thu@163.com
