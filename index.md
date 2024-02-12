@@ -1,5 +1,5 @@
 ## Wenhui Kong
-![My Profile Photo](https://raw.githubusercontent.com/ChrisWenhui/ChrisWenhui.github.io/master/profile.jpg)
+![My Profile Photo](https://raw.githubusercontent.com/ChrisWenhui/ChrisWenhui.github.io/master/1702547006897.png)
 ### Education
 
 Bachelor degree: 2015.09-2019.06 Nanchang University Mathematics
