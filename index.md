@@ -2,10 +2,7 @@
 
 ![image](https://github.com/Wenhui.png)
 
-作者：像羽毛那样轻
-链接：https://www.jianshu.com/p/0867f4bd0951
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 ### Education
 
 Bachelor degree: 2015.09-2019.06 Nanchang University Mathematics
