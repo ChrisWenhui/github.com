@@ -1,6 +1,6 @@
 ## Wenhui Kong
 
-![image](https://github.com/ChrisWenhui/Wenhui.png)
+![image](https://github.com/ChrisWenhui/github.com/blob/gh-pages/Wenhui.jpg)
 
 
 ### Education
