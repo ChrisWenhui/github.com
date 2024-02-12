@@ -1,5 +1,5 @@
 ## Wenhui Kong
-![Your Profile Photo](YourPhotoURL)
+
 ![My Profile Photo](https://raw.githubusercontent.com/ChrisWenhui/ChrisWenhui.github.io/master/Wenhui.png)
 ### Education
 
